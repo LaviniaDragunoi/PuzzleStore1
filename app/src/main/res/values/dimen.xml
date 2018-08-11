@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Margins-->
+    <dimen name="fab_margin">20dp</dimen>
+    <dimen name="item_margin">8dp</dimen>
+    <dimen name="editor_margin">10dp</dimen>
+    <dimen name="editor_text_margin">20dp</dimen>
+    <!--Text size-->
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="button_text_size">30sp</dimen>
+    <dimen name="order_text_size">20sp</dimen>
+    <!--Objects dimens-->
+    <dimen name="editor_image_size">100dp</dimen>
+    <dimen name="button_dimen">50dp</dimen>
+    <dimen name="zero_dimen">0dp</dimen>
+</resources>

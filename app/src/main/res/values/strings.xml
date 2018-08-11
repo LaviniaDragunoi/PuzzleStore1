@@ -1,0 +1,54 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--app's name-->
+    <string name="app_name">Puzzles</string>
+    <!--menu bar's options-->
+    <string name="delete_all_entries">Delete all</string>
+    <string name="save_entry">Save entry</string>
+    <string name="delete_item">Delete</string>
+    <!--Empty view messages-->
+    <string name="empty_view_text">Nothing to play with.</string>
+    <string name="populate_store">Push <b>+</b> button to populate store.</string>
+    <!--Item's details-->
+    <string name="currency"><b>EUR</b></string>
+    <string name="buy">Sold</string>
+    <string name="name">Name</string>
+    <string name="puzzle_name">Puzzle name</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="minus"><b>-</b></string>
+    <string name="plus"><b>+</b></string>
+    <string name="zero">0</string>
+    <string name="supplier">Supplier</string>
+    <string name="supplier_name">Supplier name</string>
+    <string name="supplier_phone">Phone number</string>
+    <string name="supplier_email">Email</string>
+    <string name="delete_all">Delete all items?</string>
+
+    <!--EditorActivity text-->
+    <string name="editor_activity_title_add_item">Add new item</string>
+    <string name="editor_activity_title_edit_item">Edit item</string>
+    <string name="unsaved_changes_message">Discard your changes and quit editing</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_insert_failed">Error with saving item</string>
+    <string name="editor_insert_successful">Item saved</string>
+    <string name="editor_update_failed">Update failed</string>
+    <string name="editor_update_successful">Update saved</string>
+    <string name="delete_dialog_message">Delete this item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_failed">Error with deleting item</string>
+    <string name="editor_delete_successful">Item deleted</string>
+    <string name="positive_quantity">You cannot have less then 0 on quantity.</string>
+    <string name="order_email_subject">Order for <xliff:g id="name" example="puzzle name">%s</xliff:g> puzzle </string>
+    <string name="order_email">Puzzle quantity: </string>
+    <string name="no_null_quantity">Item should have a quantity.</string>
+    <string name="no_null_image">Item should have an image.</string>
+    <string name="no_null_price">Item should have a price.</string>
+    <string name="no_null_name">Item should have a name.</string>
+    <string name="error_editing">Check again your item inputs.</string>
+    <!--PuzzleCursorAdapter text-->
+    <string name="unknown_details">Unknow info</string>
+    <string name="error_sale_update">Error on sale update</string>
+    <string name="empty_stock">No puzzle on stock</string>
+</resources>
